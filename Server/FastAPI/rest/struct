@@ -1,0 +1,10 @@
+User
+
+/check-user-id
+/check-email
+/register
+/login
+/auto-login  np
+/get-user-data
+/update-user-data
+/delete-user

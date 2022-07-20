@@ -1,0 +1,8 @@
+{
+    "userId": String,
+    "password": String,
+    "email": String,
+    "loginToken": datetime.datetime.utcnow() + datetime.timedelta(seconds=300),
+    "name": "",
+    "phoneNumber": "",
+}
